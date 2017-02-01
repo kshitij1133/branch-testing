@@ -1,0 +1,59 @@
+[11-Jan-2017 10:23:34 Etc/UTC] PHP Notice:  Undefined index: subject in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 150
+[11-Jan-2017 10:28:03 Etc/UTC] PHP Notice:  Undefined index: subject in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 150
+[11-Jan-2017 11:01:58 Etc/UTC] PHP Notice:  Undefined index: subject in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 150
+[11-Jan-2017 11:07:03 Etc/UTC] PHP Notice:  Undefined index: subject in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 150
+[11-Jan-2017 11:07:57 Etc/UTC] PHP Notice:  Undefined index: subject in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 150
+[11-Jan-2017 11:17:24 Etc/UTC] PHP Notice:  Undefined index: fname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 151
+[11-Jan-2017 11:17:24 Etc/UTC] PHP Notice:  Undefined index: fname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 154
+[11-Jan-2017 11:17:24 Etc/UTC] PHP Notice:  Undefined index: lname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 155
+[11-Jan-2017 11:17:24 Etc/UTC] PHP Notice:  Undefined index: email in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 156
+[11-Jan-2017 11:17:24 Etc/UTC] PHP Notice:  Undefined index: mobile in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 157
+[11-Jan-2017 11:17:24 Etc/UTC] PHP Notice:  Undefined index: message in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 163
+[12-Jan-2017 09:25:03 Etc/UTC] PHP Notice:  Undefined index: fname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 151
+[12-Jan-2017 09:25:03 Etc/UTC] PHP Notice:  Undefined index: fname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 154
+[12-Jan-2017 09:25:03 Etc/UTC] PHP Notice:  Undefined index: lname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 155
+[12-Jan-2017 09:25:03 Etc/UTC] PHP Notice:  Undefined index: email in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 156
+[12-Jan-2017 09:25:03 Etc/UTC] PHP Notice:  Undefined index: mobile in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 157
+[12-Jan-2017 09:25:03 Etc/UTC] PHP Notice:  Undefined index: message in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 163
+[12-Jan-2017 09:28:42 Etc/UTC] PHP Notice:  Undefined index: fname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 151
+[12-Jan-2017 09:28:42 Etc/UTC] PHP Notice:  Undefined index: fname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 154
+[12-Jan-2017 09:28:42 Etc/UTC] PHP Notice:  Undefined index: lname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 155
+[12-Jan-2017 09:28:42 Etc/UTC] PHP Notice:  Undefined index: email in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 156
+[12-Jan-2017 09:28:42 Etc/UTC] PHP Notice:  Undefined index: mobile in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 157
+[12-Jan-2017 09:28:42 Etc/UTC] PHP Notice:  Undefined index: message in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 163
+[12-Jan-2017 09:28:45 Etc/UTC] PHP Notice:  Undefined index: fname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 151
+[12-Jan-2017 09:28:45 Etc/UTC] PHP Notice:  Undefined index: fname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 154
+[12-Jan-2017 09:28:45 Etc/UTC] PHP Notice:  Undefined index: lname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 155
+[12-Jan-2017 09:28:45 Etc/UTC] PHP Notice:  Undefined index: email in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 156
+[12-Jan-2017 09:28:45 Etc/UTC] PHP Notice:  Undefined index: mobile in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 157
+[12-Jan-2017 09:28:45 Etc/UTC] PHP Notice:  Undefined index: message in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 163
+[12-Jan-2017 09:33:26 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:141) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 252
+[12-Jan-2017 09:34:33 Etc/UTC] PHP Notice:  Undefined index: fname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 190
+[12-Jan-2017 09:34:33 Etc/UTC] PHP Notice:  Undefined index: fname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 193
+[12-Jan-2017 09:34:33 Etc/UTC] PHP Notice:  Undefined index: lname in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 194
+[12-Jan-2017 09:34:33 Etc/UTC] PHP Notice:  Undefined index: email in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 195
+[12-Jan-2017 09:34:33 Etc/UTC] PHP Notice:  Undefined index: mobile in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 196
+[12-Jan-2017 09:34:33 Etc/UTC] PHP Notice:  Undefined index: message in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 202
+[12-Jan-2017 09:34:34 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:141) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 252
+[12-Jan-2017 09:35:18 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 251
+[16-Jan-2017 04:58:51 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 251
+[16-Jan-2017 09:34:04 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 256
+[28-Jan-2017 07:50:23 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 251
+[30-Jan-2017 06:02:33 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 247
+[30-Jan-2017 06:09:09 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 247
+[30-Jan-2017 06:10:15 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 247
+[30-Jan-2017 06:13:24 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 247
+[30-Jan-2017 06:15:24 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 247
+[30-Jan-2017 06:18:18 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 247
+[30-Jan-2017 06:18:24 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 251
+[30-Jan-2017 06:21:49 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 246
+[30-Jan-2017 06:26:08 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 246
+[30-Jan-2017 06:33:31 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 246
+[30-Jan-2017 06:40:42 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 246
+[30-Jan-2017 06:43:29 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 246
+[30-Jan-2017 06:46:07 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 246
+[30-Jan-2017 06:50:55 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 246
+[30-Jan-2017 06:52:27 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 246
+[30-Jan-2017 06:55:01 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 246
+[30-Jan-2017 06:58:29 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 246
+[30-Jan-2017 06:59:10 Etc/UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mambostu/public_html/spiceheaven.com.au/inquery.php:140) in /home/mambostu/public_html/spiceheaven.com.au/inquery.php on line 251
